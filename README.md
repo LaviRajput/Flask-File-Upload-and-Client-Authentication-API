@@ -177,5 +177,3 @@ python app.py
 └── README.md
 ```
 
-> Replace all dummy authentications and email logic with actual implementations in production.
-
